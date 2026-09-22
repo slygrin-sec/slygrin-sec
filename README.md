@@ -5,10 +5,13 @@
     ███████╗██║      ╚████╔╝ ██║  ███╗██████╔╝██║██╔██╗ ██║    ███████╗█████╗  ██║     
     ╚╚════██║██║       ╚██╔╝  ██║   ██║██╔══██╗██║██║╚██╗██║    ╚╚════██║██╔══╝  ██║     
     ███████║███████╗   ██║   ╚██████╔╝██║  ██║██║██║ ╚████║    ███████║███████╗╚██████╗
-    ╚╚══════╝╚╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝ ╚═══╝    ╚╚══════╝╚╚══════╝ ╚═════╝
+    ╚╚══════╝╚╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝ ╚═══╝    ╚╚══════╝╚╚══════╝ ╚╚═════╝
 </pre>
+
+  <img src="https://github.com/user-attachments/assets/8660ef91-3be7-4e57-a0e5-1595dd0a4713" alt="CYBRUS Seal" width="140" style="border-radius: 50%; margin: 20px 0;" />
+
   <h3>Antoinne "SlyGrin" Kurendi</h3>
-  <p><em>Security Researcher & Ethical Hacker • Founder of <a href="https://cybrus.agency">CYBRUS</a></em></p>
+  <p><em>Security Researcher, Crypto Investigator & Ethical Hacker • Founder of <a href="https://cybrus.agency">CYBRUS</a></em></p>
 
   <p>
     <img src="https://img.shields.io/badge/Location-Nairobi%2C%20Kenya-blueviolet?style=flat-square&logo=map&logoColor=white" />
@@ -16,14 +19,8 @@
   </p>
 
   <p>
-    <a href="https://ke.linkedin.com/in/antoinne-kurendi-541418266" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:antokurendi@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
     <a href="https://cybrus.agency" target="_blank">
-      <img src="https://img.shields.io/badge/CYBRUS-111111?style=flat-square&logo=rocket&logoColor=white" alt="CYBRUS"/>
+      <img src="https://github.com/user-attachments/assets/8660ef91-3be7-4e57-a0e5-1595dd0a4713" width="16" style="vertical-align: middle; border-radius: 50%;" /> <b>CYBRUS HQ</b>
     </a>
   </p>
 </div>
@@ -31,7 +28,17 @@
 ---
 
 ### 💻 About Me
-Security researcher and ethical hacker based in Nairobi, Kenya. Deeply focused on offensive security operations, network penetration testing, vulnerability assessment, and comprehensive threat management. Founder of **CYBRUS**, a student-led cybersecurity initiative.
+Security researcher, ethical hacker, and online investigator based in Nairobi, Kenya. Beyond traditional offensive security operations and vulnerability assessment, I operate as a digital detective and on-chain crypto investigator—tracking illicit transaction flows, analyzing wallet clusters, and unmasking digital threat footprints. 
+
+As the founder of **CYBRUS**, I lead a dedicated collaborative initiative focused on practical security research, threat intelligence, and raising digital safety awareness. My work centers around investigating how systems break, tracking cyber adversaries across networks and ledgers, and building robust counter-strategies.
+
+---
+
+### 🛡️ Operational Focus & Domains
+* **Cryptocurrency Investigation & On-Chain Analysis:** Tracing fund movements, analyzing smart contract exploits, and deanonymizing transaction trails across blockchain ledgers.
+* **OSINT & Digital Forensics:** Gathering open-source intelligence, mapping digital footprints, and conducting comprehensive online investigations.
+* **Penetration Testing:** Simulating real-world threat actors to uncover network and web application vulnerabilities before malicious actors can exploit them.
+* **Tooling & Automation:** Developing custom scripts and automating security workflows to streamline vulnerability discovery and telemetry analysis.
 
 ---
 
@@ -49,12 +56,6 @@ Security researcher and ethical hacker based in Nairobi, Kenya. Deeply focused o
 ---
 
 ### 🎯 Objectives & Path
-* **Focus Areas:** Web and network penetration testing, red teaming concepts, and threat intelligence.
-* **Certifications Roadmap:** Progressing through industry-recognized paths (CEH, PenTest+, PNPT, OSCP).
-* **Professional Goals:** Gaining hands-on operational exposure through practical mentorship and shadowing in security environments.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slygrin-sec&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+* **Methodical Growth:** Continuously sharpening technical capabilities through hands-on lab environments, capture-the-flag (CTF) challenges, and real-world simulation frameworks.
+* **Certifications Roadmap:** Progressing through a structured pathway of industry-recognized credentials (CEH, PenTest+, PNPT, OSCP).
+* **Industry Engagement:** Seeking practical exposure, mentorship, and collaborative opportunities within professional security environments and intelligence operations centers.
